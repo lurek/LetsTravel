@@ -1,0 +1,12 @@
+.mt-20 {
+	margin-top: 20px;
+}
+footer {
+	height: 80px;
+}
+footer>.container,footer .row {
+	height: 100%;
+}
+footer .row p {
+	margin: 16px 0px;
+}
